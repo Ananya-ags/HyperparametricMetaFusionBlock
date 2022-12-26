@@ -1,13 +1,8 @@
 # Hyperparametric Meta Fusion Block
 
-The code files are currently private since our work is under review in ICPR'22. They will be made publicly available soon after the paper is published/accepted for publication.
+This is the code for our research paper "Towards Improved Skin Lesion Classification using Metadata Supervision" published under the proceedings of Internationcal Conference on Pattern Recognition (ICPR), 2022
 
-<!-- Towards Improved Skin Lesion Classification using Metadata Supervision -->
-
-==============================================================================================
-
-The manuscript is under review (ICPR 2022), its complete implementation details, full-text and codes will be shared after publication.<br>
-**[Towards Improved Skin Lesion Classification using Metadata Supervision]**<br>
+Co-authors:
 [Anshul Pundhir](https://anshulpundhir.github.io/), [Saurabh Dadhich](https://www.linkedin.com/in/saurabh-dadhich-a496a8197/), [Ananya Agarwal](https://www.linkedin.com/in/ananya-agarwal-500597192), and [Balasubramanian Raman](http://faculty.iitr.ac.in/~balarfma/)  
 
 
